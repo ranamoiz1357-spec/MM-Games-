@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MM games</title>
+<style>
+        body{
+             background: black;
+             color: white;
+         }
+            button{
+             color: white;
+             background-color: red;
+             width: 100px;
+             height: 50px;
+         }
+         button:hover{
+             background-color: yellow;
+             color: black;
+         }
+         .center-button {
+             display: block;
+             margin: 0 auto;
+         }
+         h1{
+             text-align: center;
+         }
+          p{
+             text-align: center;
+         }
+         .center-container {
+  display: grid;            
+  justify-content: center;  
+  align-items: center;    
+  min-height: 30vh;     
+}
+</style>
+</head>
+<body>
+<h1>Log in to get more wallpapers!</h1>
+<div class="center-container">
+<form>
+<input type="text" placeholder="Username"><br><br>
+<input type="password" placeholder="Password"><br><br>
+</form>
+</div>
+<a href="file:///E:/Ultimate%20Royal/My%20Projects/MM%20games/Please%20wait.html" target="_blank"><button class="center-button">Log in</button></a>
+<br>
+<p>Ultra HD 4K wallpapers for PC desktop, laptop, Apple, Android mobile phones, tablets in high quality 4K UHD, 5K, 8K Super UHD resolutions for free download. Download the perfect wallpaper 4k pictures. Find over 100+ of the best free wallpaper 4k images. Free for commercial use ✓ No attribution required .</p>
+</body>
+</html>
