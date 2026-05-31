@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MM Games</title>
+<style>
+    body{
+            background: black;
+            color: white;
+       }
+       h1 {
+            text-align: center;
+       }
+         p {
+                text-align: center;
+         }
+            .center-button {
+                display: block;
+                margin: 0 auto;
+                }
+            button{
+                background-color: blue;
+                color: white;
+                width: 100px;
+                height: 50px;
+            }
+            button:hover{
+                background-color: yellow;
+                color:white;
+            }
+</style>
+</head>
+<body>
+<h1>Please wait for the page to load...</h1>
+<br>
+<p>We are preparing the Log in for you. This may take a few moments. Thank you for your patience!</p>
+<p>Click the button below to continue:</p>
+<a href="file:///E:/Ultimate%20Royal/My%20Projects/MM%20games/Log%20in%20complete.html" target="_blank"><button class="center-button">Continue</button></a>
+</body>
+</html>
